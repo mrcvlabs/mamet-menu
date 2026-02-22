@@ -49,6 +49,18 @@
       "price": 430.0
     },
     {
+      "name": "Urfa Kebab",
+      "price": 430.0
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": 380.0
+    },
+    {
+      "name": "Kanat Izgara",
+      "price": 380.0
+    },
+    {
       "name": "Alinazik Kebab",
       "price": 520.0
     },
@@ -65,10 +77,6 @@
       "price": 520.0
     },
     {
-      "name": "Kanat Izgara",
-      "price": 380.0
-    },
-    {
       "name": "Kuzu Pirzola",
       "price": 750.0
     },
@@ -83,14 +91,6 @@
     {
       "name": "Patlıcanlı Kebab",
       "price": 520.0
-    },
-    {
-      "name": "Tavuk Şiş",
-      "price": 380.0
-    },
-    {
-      "name": "Urfa Kebab",
-      "price": 430.0
     },
     {
       "name": "Vali Kebabı (1 Kişilik)",
@@ -243,10 +243,6 @@
   ],
   "Pide Çeşitleri": [
     {
-      "name": "Kaşarlı Cantık",
-      "price": 120.0
-    },
-    {
       "name": "Karışık Pide",
       "price": 380.0
     },
@@ -259,20 +255,12 @@
       "price": 350.0
     },
     {
-      "name": "Kuşbaşılı Cantık",
-      "price": 130.0
-    },
-    {
       "name": "Kuşbaşılı Pide",
       "price": 340.0
     },
     {
       "name": "Kuşbaşılı-Kaşarlı Pide",
       "price": 360.0
-    },
-    {
-      "name": "Kıymalı Cantık",
-      "price": 120.0
     },
     {
       "name": "Kıymalı Pide",
@@ -289,6 +277,18 @@
     {
       "name": "Sucuklu-Kaşarlı Pide",
       "price": 360.0
+    },
+    {
+      "name": "Kaşarlı Cantık",
+      "price": 120.0
+    },
+    {
+      "name": "Kuşbaşılı Cantık",
+      "price": 130.0
+    },
+    {
+      "name": "Kıymalı Cantık",
+      "price": 120.0
     }
   ],
   "Pide Çeşitleri (1,5) Porsiyon": [
@@ -433,3 +433,4 @@
   ]
 
 }
+
