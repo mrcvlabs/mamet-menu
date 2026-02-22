@@ -2,119 +2,119 @@
   "Dürüm Çeşitleri": [
     {
       "name": "Adana Dürüm",
-      "price": 200.0
+      "price": 250.0
     },
     {
       "name": "Ciğer Dürüm",
-      "price": 250.0
+      "price": 300.0
     },
     {
       "name": "Kuzu Dürüm",
-      "price": 250.0
+      "price": 300.0
     },
     {
       "name": "Tavuk Dürüm",
-      "price": 200.0
+      "price": 250.0
     },
     {
       "name": "Urfa Dürüm",
-      "price": 200.0
+      "price": 250.0
     }
   ],
   "Dürüm Çeşitleri (1,5) Porsiyon": [
     {
       "name": "Adana Dürüm (1,5)",
-      "price": 300.0
+      "price": 375.0
     },
     {
       "name": "Ciğer Dürüm (1,5)",
-      "price": 375.0
+      "price": 450.0
     },
     {
       "name": "Kuzu Dürüm (1,5)",
-      "price": 375.0
+      "price": 450.0
     },
     {
       "name": "Tavuk Dürüm (1,5)",
-      "price": 300.0
+      "price": 375.0
     },
     {
       "name": "Urfa Dürüm (1,5)",
-      "price": 300.0
+      "price": 375.0
     }
   ],
   "Kebap Çeşitleri": [
     {
       "name": "Adana Kebab",
-      "price": 380.0
+      "price": 430.0
     },
     {
       "name": "Alinazik Kebab",
-      "price": 470.0
+      "price": 520.0
     },
     {
       "name": "Altı Ezmeli Kebab",
-      "price": 470.0
+      "price": 520.0
     },
     {
       "name": "Ciğer Şiş",
-      "price": 470.0
+      "price": 520.0
     },
     {
       "name": "Domatesli Kebab",
-      "price": 470.0
+      "price": 520.0
     },
     {
       "name": "Kanat Izgara",
-      "price": 330.0
-    },
-    {
-      "name": "Kuzu Pirzola",
-      "price": 700.0
-    },
-    {
-      "name": "Kuzu Şiş Kebab",
-      "price": 480.0
-    },
-    {
-      "name": "Lokum Şiş Kebab",
-      "price": 690.0
-    },
-    {
-      "name": "Patlıcanlı Kebab",
-      "price": 470.0
-    },
-    {
-      "name": "Tavuk Şiş",
-      "price": 330.0
-    },
-    {
-      "name": "Urfa Kebab",
       "price": 380.0
     },
     {
+      "name": "Kuzu Pirzola",
+      "price": 750.0
+    },
+    {
+      "name": "Kuzu Şiş Kebab",
+      "price": 520.0
+    },
+    {
+      "name": "Lokum Şiş Kebab",
+      "price": 750.0
+    },
+    {
+      "name": "Patlıcanlı Kebab",
+      "price": 520.0
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": 380.0
+    },
+    {
+      "name": "Urfa Kebab",
+      "price": 430.0
+    },
+    {
       "name": "Vali Kebabı (1 Kişilik)",
-      "price": 800.0
+      "price": 900.0
     },
     {
       "name": "Vali Kebabı (2 Kişilik)",
-      "price": 1600.0
+      "price": 1800.0
     },
     {
       "name": "Vali Kebabı (3 Kişilik)",
-      "price": 2400.0
+      "price": 2700.0
     },
     {
       "name": "Vali Kebabı (4 Kişilik)",
-      "price": 3200.0
+      "price": 3600.0
     },
     {
       "name": "Yoğurtlu Kebab",
-      "price": 470.0
+      "price": 520.0
     },
     {
       "name": "Şiş Beyti Kebab",
-      "price": 470.0
+      "price": 520.0
     }
   ],
   "Kebap Çeşitleri (1,5) Porsiyon": [
@@ -220,71 +220,75 @@
   "Lahmacun Çeşitleri": [
     {
       "name": "Acılı Lahmacun",
-      "price": 120.0
+      "price": 140.0
     },
     {
       "name": "Acısız Lahmacun",
-      "price": 120.0
+      "price": 140.0
     }
   ],
   "Meze Çeşitleri": [
     {
       "name": "Az Çiğköfte",
-      "price": 80.0
+      "price": 100.0
     },
     {
       "name": "Çiğ Köfte(1,5)",
-      "price": 200.0
+      "price": 300.0
     },
     {
       "name": "Çiğköfte",
-      "price": 150.0
+      "price": 200.0
     }
   ],
   "Pide Çeşitleri": [
     {
       "name": "Kaşarlı Cantık",
-      "price": 100.0
-    },
-    {
-      "name": "Kaşarlı Pide",
-      "price": 290.0
-    },
-    {
-      "name": "Kaşarlı-Yumurtalı Pide",
-      "price": 300.0
-    },
-    {
-      "name": "Kuşbaşılı Cantık",
       "price": 120.0
     },
     {
-      "name": "Kuşbaşılı Pide",
+      "name": "Karışık Pide",
+      "price": 380.0
+    },
+    {
+      "name": "Kaşarlı Pide",
       "price": 300.0
+    },
+    {
+      "name": "Kaşarlı-Yumurtalı Pide",
+      "price": 350.0
+    },
+    {
+      "name": "Kuşbaşılı Cantık",
+      "price": 130.0
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": 340.0
     },
     {
       "name": "Kuşbaşılı-Kaşarlı Pide",
-      "price": 300.0
+      "price": 360.0
     },
     {
       "name": "Kıymalı Cantık",
-      "price": 100.0
+      "price": 120.0
     },
     {
       "name": "Kıymalı Pide",
-      "price": 290.0
-    },
-    {
-      "name": "Kıymalı-Kaşarlı Pide",
-      "price": 300.0
-    },
-    {
-      "name": "Sebzeli-Kaşarlı Pide",
       "price": 330.0
     },
     {
-      "name": "Sucuklu-Kaşarlı Pide",
+      "name": "Kıymalı-Kaşarlı Pide",
       "price": 350.0
+    },
+    {
+      "name": "Sebzeli-Kaşarlı Pide",
+      "price": 360.0
+    },
+    {
+      "name": "Sucuklu-Kaşarlı Pide",
+      "price": 360.0
     }
   ],
   "Pide Çeşitleri (1,5) Porsiyon": [
@@ -376,55 +380,56 @@
   "İçecek Çeşitleri": [
     {
       "name": "1L Ayran",
-      "price": 80.0
+      "price": 100.0
     },
     {
       "name": "1L Kola",
-      "price": 80.0
+      "price": 100.0
     },
     {
       "name": "Açık Ayran",
-      "price": 50.0
+      "price": 70.0
     },
     {
       "name": "Büyük Ayran",
-      "price": 40.0
+      "price": 50.0
     },
     {
       "name": "Fanta",
-      "price": 50.0
+      "price": 70.0
     },
     {
       "name": "Gazoz",
-      "price": 50.0
+      "price": 70.0
     },
     {
       "name": "Kola",
-      "price": 50.0
+      "price": 70.0
     },
     {
       "name": "Küçük Ayran",
-      "price": 30.0
+      "price": 400.0
     },
     {
       "name": "Meyve Suyu",
-      "price": 50.0
+      "price": 70.0
     },
     {
       "name": "Soda",
-      "price": 30.0
+      "price": 40.0
     },
     {
       "name": "Su",
-      "price": 15.0
+      "price": 20.0
     },
     {
       "name": "Şalgam",
-      "price": 50.0
+      "price": 70.0
     },
     {
       "name": "Şıra",
-      "price": 60.0
+      "price": 80.0
     }
   ]
+
 }
