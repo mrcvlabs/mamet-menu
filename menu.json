@@ -14,33 +14,11 @@
     },
     {
       "name": "Tavuk Dürüm",
-      "price": 250.0
+      "price": 200.0
     },
     {
       "name": "Urfa Dürüm",
       "price": 250.0
-    }
-  ],
-  "Dürüm Çeşitleri (1,5) Porsiyon": [
-    {
-      "name": "Adana Dürüm (1,5)",
-      "price": 375.0
-    },
-    {
-      "name": "Ciğer Dürüm (1,5)",
-      "price": 450.0
-    },
-    {
-      "name": "Kuzu Dürüm (1,5)",
-      "price": 450.0
-    },
-    {
-      "name": "Tavuk Dürüm (1,5)",
-      "price": 375.0
-    },
-    {
-      "name": "Urfa Dürüm (1,5)",
-      "price": 375.0
     }
   ],
   "Kebap Çeşitleri": [
@@ -117,68 +95,6 @@
       "price": 520.0
     }
   ],
-  "Kebap Çeşitleri (1,5) Porsiyon": [
-    {
-      "name": "Adana Kebab (1,5)",
-      "price": 570.0
-    },
-    {
-      "name": "Alinazik Kebab (1,5)",
-      "price": 705.0
-    },
-    {
-      "name": "Altı Ezmeli Kebab (1,5)",
-      "price": 705.0
-    },
-    {
-      "name": "Ciğer Şiş (1,5)",
-      "price": 705.0
-    },
-    {
-      "name": "Domatesli Kebab (1,5)",
-      "price": 705.0
-    },
-    {
-      "name": "Kanat Izgara (1,5)",
-      "price": 495.0
-    },
-    {
-      "name": "Kuzu Pirzola (1,5)",
-      "price": 1050.0
-    },
-    {
-      "name": "Kuzu Şiş Kebab (1,5)",
-      "price": 720.0
-    },
-    {
-      "name": "Lokum Şiş Kebab (1,5)",
-      "price": 1035.0
-    },
-    {
-      "name": "Patlıcanlı Kebab (1,5)",
-      "price": 705.0
-    },
-    {
-      "name": "Tavuk Şiş (1,5)",
-      "price": 495.0
-    },
-    {
-      "name": "Urfa Kebab (1,5)",
-      "price": 570.0
-    },
-    {
-      "name": "Vali Kebabı (1,5)",
-      "price": 1200.0
-    },
-    {
-      "name": "Yoğurtlu Kebab (1,5)",
-      "price": 705.0
-    },
-    {
-      "name": "Şiş Beyti Kebab (1,5)",
-      "price": 705.0
-    }
-  ],
   "Kebap Çeşitleri (Az) Porsiyon": [
     {
       "name": "Adana Kebab (Az)",
@@ -233,10 +149,6 @@
       "price": 100.0
     },
     {
-      "name": "Çiğ Köfte(1,5)",
-      "price": 300.0
-    },
-    {
       "name": "Çiğköfte",
       "price": 200.0
     }
@@ -289,52 +201,6 @@
     {
       "name": "Kıymalı Cantık",
       "price": 120.0
-    }
-  ],
-  "Pide Çeşitleri (1,5) Porsiyon": [
-    {
-      "name": "Kaşarlı Cantık (1,5)",
-      "price": 150.0
-    },
-    {
-      "name": "Kaşarlı Pide (1,5)",
-      "price": 435.0
-    },
-    {
-      "name": "Kaşarlı-Yumurtalı Pide (1,5)",
-      "price": 450.0
-    },
-    {
-      "name": "Kuşbaşılı Cantık (1,5)",
-      "price": 180.0
-    },
-    {
-      "name": "Kuşbaşılı Pide (1,5)",
-      "price": 450.0
-    },
-    {
-      "name": "Kuşbaşılı-Kaşarlı Pide (1,5)",
-      "price": 450.0
-    },
-    {
-      "name": "Kıymalı Cantık (1,5)",
-      "price": 150.0
-    },
-    {
-      "name": "Kıymalı Pide (1,5)",
-      "price": 435.0
-    },
-    {
-      "name": "Kıymalı-Kaşarlı Pide (1,5)",
-      "price": 450.0
-    },
-    {
-      "name": "Sebzeli-Kaşarlı Pide (1,5)",
-      "price": 495.0
-    },
-    {
-      "name": "Sucuklu-Kaşarlı Pide (1,5)",
-      "price": 525.0
     }
   ],
   "Tatlı Çeşitleri": [
